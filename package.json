@@ -1,0 +1,24 @@
+{
+  "name": "GNA",
+  "version": "0.0.1",
+  "description": "Gender Neutral Assistant",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/groupninemedia/GNA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/groupninemedia/GNA/issues"
+  },
+  "homepage": "https://github.com/groupninemedia/GNA#readme",
+  "dependencies": {
+    "@slack/client": "^3.10.0",
+    "dotenv": "^4.0.0"
+  }
+}

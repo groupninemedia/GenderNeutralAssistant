@@ -1,0 +1,6 @@
+{
+  "name": "GNA",
+  "description": "Gender Neutral Assistant",
+  "repository": "https://github.com/groupninemedia/gna",
+  "image": "heroku/nodejs"
+}
